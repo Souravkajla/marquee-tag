@@ -1,0 +1,84 @@
+.road {
+  background-color: gray;
+  height: 50vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.sideline {
+  padding-top: 0.7vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.roadsideline {
+  height: 3vh;
+  width: 100vw;
+  background-color: #fff;
+}
+
+.boxes {
+  display: flex;
+  gap: 80px;
+  margin-top: 4vh;
+}
+
+.roadboxes {
+  height: 20px;
+  width: 100px;
+  background-color: #fff;
+}
+
+.roadsideline2 {
+  height: 3vh;
+  width: 100vw;
+  background-color: #fff;
+  margin-top: 4vh;
+}
+
+.car {
+  height: 15vh;
+  transform: rotate(90deg);
+  margin-right: 200px;
+}
+
+.secondcar {
+  height: 15vh;
+  transform: rotate(90deg);
+  margin-right: 200px;
+}
+
+.thirdcar {
+  height: 15vh;
+  transform: rotate(90deg);
+  margin-right: 200px;
+}
+
+.fourthcar {
+  height: 15vh;
+  transform: rotate(90deg);
+}
+
+.car2 {
+  height: 15vh;
+  transform: rotate(270deg);
+  margin-right: 200px;
+}
+
+.secondcar2 {
+  height: 15vh;
+  transform: rotate(270deg);
+  margin-right: 200px;
+}
+
+.thirdcar3 {
+  height: 15vh;
+  transform: rotate(270deg);
+  margin-right: 200px;
+}
+
+.fourthcar4 {
+  height: 15vh;
+  transform: rotate(270deg);
+}
